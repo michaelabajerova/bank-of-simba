@@ -1,0 +1,32 @@
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.csprojAssemblyReference.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.AssemblyInfoInputs.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.AssemblyInfo.cs
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.csproj.CoreCompileInputs.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.RazorAssemblyInfo.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.RazorAssemblyInfo.cs
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.exe
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.deps.json
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.runtimeconfig.json
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.runtimeconfig.dev.json
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.dll
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.pdb
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.Views.dll
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\bin\Debug\netcoreapp3.1\Bank Of Simba.Views.pdb
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.TagHelpers.input.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.TagHelpers.output.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.RazorCoreGenerate.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.RazorTargetAssemblyInfo.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.RazorTargetAssemblyInfo.cs
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.Views.pdb
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\staticwebassets\Bank Of Simba.StaticWebAssets.Manifest.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\staticwebassets\Bank Of Simba.StaticWebAssets.xml
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.dll
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.pdb
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.genruntimeconfig.cache
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Bank Of Simba.csproj.CopyComplete
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\bajer\Documents\Greenfox\michaelabajerova\week7\day 1\Bank Of Simba\obj\Debug\netcoreapp3.1\Razor\Views\Home\HtmlCeption.cshtml.g.cs
